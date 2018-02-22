@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "686014977101",
+    "firebase_url": "https://loginfirebase-123456.firebaseio.com",
+    "project_id": "loginfirebase-123456",
+    "storage_bucket": "loginfirebase-123456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686014977101:android:d0f67f430a382243",
+        "android_client_info": {
+          "package_name": "com.kamontat.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686014977101-edqnlljr4m590u6066nhegt01pmjsovf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamontat.loginfirebase",
+            "certificate_hash": "b577c857483086b3aef2376ab326b772111a5315"
+          }
+        },
+        {
+          "client_id": "686014977101-gcs07gc5q4p1us1ahvbqpje3skehlf5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOkYf85ISVeiEG_iW2bg0lyAJbF0cADYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686014977101-gcs07gc5q4p1us1ahvbqpje3skehlf5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
